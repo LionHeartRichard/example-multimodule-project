@@ -1,8 +1,8 @@
 package ru.yandex.practicum.musrec.console;
 
-import ru.yandex.practicum.musrec.recommender.Recommender;
+import ru.yandex.practicum.musrec.api.Recommender;
+import ru.yandex.practicum.musrec.api.Track;
 import ru.yandex.practicum.musrec.recommender.RecommenderImpl;
-import ru.yandex.practicum.musrec.recommender.Track;
 
 import java.util.Scanner;
 

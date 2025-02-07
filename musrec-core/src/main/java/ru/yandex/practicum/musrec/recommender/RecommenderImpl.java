@@ -2,6 +2,9 @@ package ru.yandex.practicum.musrec.recommender;
 
 import org.apache.commons.math3.stat.descriptive.DescriptiveStatistics;
 
+import ru.yandex.practicum.musrec.api.Recommender;
+import ru.yandex.practicum.musrec.api.Track;
+
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
